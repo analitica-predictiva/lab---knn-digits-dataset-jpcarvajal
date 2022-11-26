@@ -114,5 +114,3 @@ def pregunta_03():
     )
 
     return df
-
-print(pregunta_03())
